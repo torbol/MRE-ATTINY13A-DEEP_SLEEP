@@ -5,7 +5,7 @@ A partir del datasheet, he desarrollado este código para poder implementarlo a 
   
   |   | Con mi código  | Con librería <sleep.h> | Sin nada para dormirlo |
   | :---: | :---: | :---: | :---: |
-  | **Consumo cuando <br>finanliza ejecución</br>**  | 19,4 μA  | 626 μA  | 4.68 mA  |
+  | **Consumo cuando <br>finaliza ejecución</br>**  | 19,4 μA  | 626 μA  | 4.68 mA  |
   | **Consumo antes función <br>*power_down_mode()*</br>**  | ≈10 mA  | ≈10 mA  | ≈10 mA  |
 
 </div>
